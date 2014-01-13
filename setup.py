@@ -6,7 +6,6 @@ except ImportError:
 
 from setuptools import setup
 
-
 install_requires = [
         'pyparsing>=1.5.0',
         'PyYAML',
